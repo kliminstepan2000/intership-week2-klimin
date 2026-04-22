@@ -1,0 +1,19 @@
+# --- Операционная система (Windows) ---
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# --- Среда разработки (VS Code) ---
+.vscode/
+*.code-workspace
+
+# --- Временные файлы и логи ---
+*.tmp
+temp/
+tmp/
+*.log
+
+
+# --- Документы Office (временные копии) ---
+~$*.docx
+~$*.xlsx
